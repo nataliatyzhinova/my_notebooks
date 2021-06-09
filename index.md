@@ -6,7 +6,7 @@
 
 [Some math statistics in python](https://github.com/nataliatyzhinova/my_notebooks/blob/main/Stat.ipynb)
 
-## Retailer Sales Forecast Case (Time Series):
+### Retailer Sales Forecast Case (Time Series):
 
 1\. [EDA.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/EDA.ipynb): Exploratory data analysis for Retailer sales data
 
