@@ -1,5 +1,5 @@
 # my_notebooks
-ipynb files with Python code
+**ipynb files with Python code:**
 
 [SVD.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/SVD.ipynb): Singular value decomposition example
 
