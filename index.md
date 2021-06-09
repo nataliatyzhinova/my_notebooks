@@ -1,14 +1,14 @@
-# my_notebooks
+# my_work
 
 **ipynb files with Python code:**
 
-[SVD.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/SVD.ipynb): Singular value decomposition example
+[Singular value decomposition example](https://github.com/nataliatyzhinova/my_notebooks/blob/main/SVD.ipynb)
 
-[Stat.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/Stat.ipynb): Some math statistics in python
+[Some math statistics in python](https://github.com/nataliatyzhinova/my_notebooks/blob/main/Stat.ipynb)
 
-Retailer Sales Forecast Case (Time Series):
+## Retailer Sales Forecast Case (Time Series):
 
-1\. [EDA](https://github.com/nataliatyzhinova/my_notebooks/blob/main/EDA.ipynb).ipynb: Exploratory data analysis for Retailer sales data
+1\. [EDA.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/EDA.ipynb): Exploratory data analysis for Retailer sales data
 
 2\. [SES, ES.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/SES%2C%20ES.ipynb): Forecast with Simple exponential smoothing and Exponential smoothing models 
 
